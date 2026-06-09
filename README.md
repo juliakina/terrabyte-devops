@@ -1,4 +1,4 @@
-# 🌱 TerraByte - API REST em Nuvem com Docker e Oracle 🌱
+# 🌱 TerraByte - API REST em Nuvem com Docker e Oracle
 
 ---
 
