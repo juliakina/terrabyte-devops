@@ -239,7 +239,7 @@ Validando o funcionamento completo da API e da integração com o banco Oracle.
 ## 🎥 Vídeo Demonstrativo
 
 Confira a demonstração completa!
-➡️[Clique aqui para assistir!](https://youtu.be/)
+➡️[Clique aqui para assistir!](https://youtu.be/S6lDEbOUUMk)
 
 ---
 
